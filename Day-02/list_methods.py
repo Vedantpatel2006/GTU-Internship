@@ -1,14 +1,14 @@
-list1 = [2,3,4,5,6,66,77,88,99]
+list1 = [2, 3, 4, 5, 6, 66, 77, 88, 99]
 
 print(list1)
 
 list1.append(111)
 print("append:", list1)
 
-list1.extend(["ch","tn"])
+list1.extend([22, 33])
 print("extend:", list1)
 
-list1.insert(2,"kaiser")
+list1.insert(2, 44)
 print("insert:", list1)
 
 list1.remove(66)
