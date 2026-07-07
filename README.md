@@ -18,9 +18,8 @@ GTU-Internship/
 
 ## Contents
 
-- 📄 Daily PowerPoint Presentations
+- 📄 PowerPoint Presentations
 - 🖼️ Activity Screenshots
-- 📝 Learning Notes
 - 💻 Python Programs
 - 🤖 AI & Sustainability Project
 - 🌱 Green Skilling Activities
