@@ -17,9 +17,6 @@ Contains the Day 1 presentation.
 ### Screenshots
 Contains screenshots of the activities and resources completed.
 
-### Notes
-Contains learning notes and important points from Day 1.
-
 ## Learning Outcomes
 
 - Understood the importance of Sustainable Development Goals.
